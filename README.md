@@ -15,3 +15,6 @@ An Introduction to Statistical Learning provides an accessible overview of the f
 10. Unsupervised learning
 
 - Chapterwise Lab codes are present in the *CODES* folder and all the datasets are present in the *DATASET* folder.
+
+## Why this notebook is the best around :
+ It consists of all the LAB excercises chapterwise as .Rmd file. So it contains an descriptive run throughtout each chapter and then alll the explaination required for you to understand the Lab exercise. This Notebook is very precise and accurate. It can easily be portable as it just needs an .Rmd interpreter(Recommended: RStudio).
